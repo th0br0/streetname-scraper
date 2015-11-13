@@ -1,0 +1,24 @@
+{
+  "name": "streetname-scraper",
+  "version": "1.0.0",
+  "description": "Get meta infos for street names of Berlin.",
+  "main": "annotate_geojson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/th0br0/streetname-scraper.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/th0br0/streetname-scraper/issues"
+  },
+  "homepage": "https://github.com/th0br0/streetname-scraper#readme",
+  "dependencies": {
+    "JSONStream": "^1.0.6",
+    "event-stream": "^3.3.2",
+    "lodash": "^3.10.1"
+  }
+}
